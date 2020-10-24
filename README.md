@@ -2,24 +2,18 @@
 ## _Wprowadzenie do języka Python_
 1. listy
  * przykład:
-> lista = []
->
-> lista2 = list()
->
-> lista3 = [1, 2, 3]
->
-> lista4 = ['a', 5, 'Python', 7.8]
+> lista = []  
+>> lista2 = list()  
+>> lista3 = [1, 2, 3]  
+>> lista4 = ['a', 5, 'Python', 7.8]  
+
 2. słowniki
  * przykład:
-> slownik = {}
-
-> slownik = dict([('jeden', 1), ('dwa', 2), ('trzy', 3)])
-
-> slownik = dict(jeden=1, dwa=2, trzy=3)
-
-> slownik = dict({'jeden': 1, 'dwa': 2, 'trzy': 3})
-
-> slownik = {'jeden': 1, 'dwa': 2, 'trzy': 3}
+> slownik = {}  
+> slownik = dict([('jeden', 1), ('dwa', 2), ('trzy', 3)])  
+> slownik = dict(jeden=1, dwa=2, trzy=3)  
+> slownik = dict({'jeden': 1, 'dwa': 2, 'trzy': 3})  
+> slownik = {'jeden': 1, 'dwa': 2, 'trzy': 3}  
 
 3. krotki
 
