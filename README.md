@@ -1,14 +1,14 @@
 # **Data Science w Python 2020 - 2021**
 ## _Wprowadzenie do języka Python_
 1. listy
- * przykład:
+  * przykład:
 > lista = []  
 >> lista2 = list()  
 >> lista3 = [1, 2, 3]  
 >> lista4 = ['a', 5, 'Python', 7.8]  
 
 2. słowniki
- * przykład:
+  * przykład:
 > slownik = {}  
 > slownik = dict([('jeden', 1), ('dwa', 2), ('trzy', 3)])  
 > slownik = dict(jeden=1, dwa=2, trzy=3)  
