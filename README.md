@@ -27,6 +27,6 @@
 2. listy
 3. macierze
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png)
+![](https://cran.r-project.org/Rlogo.svg)
 
 [Dowiedz się więcej](https://pl.wikipedia.org/wiki/R_(j%C4%99zyk_programowania))
